@@ -1,2 +1,2 @@
 # Troodon
-thy RR configuration for my Vivedino Troodon 300
+the RR configuration for my Vivedino Troodon 300
